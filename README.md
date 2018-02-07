@@ -11,4 +11,4 @@
   - Default ways of displaying: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_1/notes/types_of_displaying_elements.md)
 
 
-  - HTML tags lab: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_1/labs/Exercise_HTML_Tags.md)
+  - HTML tags lab: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_1/labs/Exercise_HTML_Tags.md)
