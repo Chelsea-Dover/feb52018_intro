@@ -30,7 +30,7 @@
   - CSS selectors lab: [here](https://flukeout.github.io/)
 
 
-  ## Day three:
-    - CSS box model: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_3/notes/css_box_model.md)
-    - Image and color formats: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_3/notes/images_colors.md)
-    - Some uses for images and colors in css: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_3/notes/images_colors_in_css.md)
+## Day three:
+  - CSS box model: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_3/notes/css_box_model.md)
+  - Image and color formats: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_3/notes/images_colors.md)
+  - Some uses for images and colors in css: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_3/notes/images_colors_in_css.md)
