@@ -28,3 +28,9 @@
   - Login form lab: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_2/labs/Exercise_Login.md	)
   - Pretty personal webpage lab: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_2/labs/Exercise_personalWebpage.md)
   - CSS selectors lab: [here](https://flukeout.github.io/)
+
+
+  ## Day three:
+    - CSS box model: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_3/notes/css_box_model.md)
+    - Image and color formats: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_3/notes/images_colors.md)
+    - Some uses for images and colors in css: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_3/notes/images_colors_in_css.md)
