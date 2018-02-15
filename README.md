@@ -34,3 +34,24 @@
   - CSS box model: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_3/notes/css_box_model.md)
   - Image and color formats: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_3/notes/images_colors.md)
   - Some uses for images and colors in css: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_3/notes/images_colors_in_css.md)
+
+
+## Day four:
+  - Flexbox:
+    [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_4/notes/flexbox.md)
+  - CSS positioning:
+  [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_4/notes/position.md)
+
+  - Flexbox lab:
+  [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_4/labs/flexbox_lab/Exercise_flexbox.md)
+  - Position lab:
+  [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_4/labs/Exercise_position.md)
+
+
+## Day five:
+  - Responsive design:
+  [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_5/notes/Responsive%20_Design.md)
+  - All zen labs:
+  [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_5/labs/all_zens.md)
+  - Responsive design lab:
+  [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_5/labs/responsive_menu_exercise.md)
